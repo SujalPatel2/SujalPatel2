@@ -8,6 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujaljpatel10@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SujalPatel2)
 [![Live App](https://img.shields.io/badge/Live%20App-38bdf8?style=for-the-badge&logo=streamlit&logoColor=white)](https://hranalytics-bysujaljpatel.streamlit.app)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=SujalPatel2&color=38bdf8&style=flat-square&label=Profile+Views)
 
 </div>
