@@ -87,8 +87,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SujalPatel2&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalPatel2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=ffffff" />
-
 </div>
 
 ---
